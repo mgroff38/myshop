@@ -3,7 +3,7 @@ CIDM 6325
 
 Online shop project.
 
-##Issues
+## Issues
 1. Issue with weasyprint - needed Cairo, after installing Cairo Packages unable to find Django. 
     Redid virtual env, limited install to weasprint v 51. Install of Cairo not needed.
 
